@@ -1,7 +1,6 @@
 # CrewOps: Airline Crew Optimization Dashboard
 
-**Built by [Vikrant Thenge](https://www.linkedin.com/in/vthenge)** — Advanced Data Scientist with 18+ years in airline operations and analytics.
-
+**Built by [Vikrant Thenge](https://www.linkedin.com/in/vthenge)** 
 CrewOps helps airline ops teams assign crew to flights while respecting duty limits, rest periods, and availability windows. It simulates real-world constraints and visualizes crew schedules with clarity.
 
 ---
