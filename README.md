@@ -1,4 +1,4 @@
-# CrewOps: Airline Crew Optimization Dashboard
+# Crew Ops: Airline Crew Optimization Dashboard
 
 **Built by [Vikrant Thenge](https://www.linkedin.com/in/vthenge)** 
 
