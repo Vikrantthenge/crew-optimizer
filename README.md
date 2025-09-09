@@ -8,6 +8,7 @@ CrewOps helps airline ops teams assign crew to flights while respecting duty lim
 
 ## 🚀 Live App  
 [![CrewOps – Live App](https://img.shields.io/badge/CrewOps-Dashboard-green?logo=streamlit)](https://vikrantthenge-crewops.streamlit.app)
+[![CrewOps CI](https://github.com/Vikrantthenge/crew-optimizer/actions/workflows/crewops-ci.yml/badge.svg)](https://github.com/Vikrantthenge/crew-optimizer/actions/workflows/crewops-ci.yml)
 
 ---
 
