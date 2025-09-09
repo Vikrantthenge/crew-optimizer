@@ -10,7 +10,18 @@ CrewOps helps airline ops teams assign crew to flights while respecting duty lim
 [![CrewOps – Live App](https://img.shields.io/badge/CrewOps-Dashboard-green?logo=streamlit)](https://vikrantthenge-crewops.streamlit.app)
 [![CrewOps CI](https://github.com/Vikrantthenge/crew-optimizer/actions/workflows/crewops-ci.yml/badge.svg)](https://github.com/Vikrantthenge/crew-optimizer/actions/workflows/crewops-ci.yml)
 
----
+
+## 🔄 CI/CD Integration
+
+This app uses **GitHub Actions** for Continuous Integration and Deployment:
+
+- ✅ Linting via `flake8` to ensure clean, error-free code
+- ✅ Optional unit testing via `pytest`
+- ✅ Auto-deployment to Streamlit Cloud on every push to `main`
+- ✅ Live CI badge reflects build health and workflow status
+
+Every update is automatically validated and deployed, ensuring production-grade reliability and faster iteration.
+
 
 ## 📸 Logo  
 ![CrewOps Logo](logo.png)
